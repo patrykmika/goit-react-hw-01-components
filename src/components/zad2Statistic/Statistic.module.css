@@ -48,7 +48,7 @@
   color: white;
 }
 
-.item:nth-child(5) {
+.item:last-child {
   background-color: goldenrod;
   color: white;
 }
